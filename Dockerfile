@@ -1,5 +1,5 @@
 FROM node:lts AS runtime
-WORKDIR /app
+WORKDIR /coming-soon
 
 COPY . .
 
